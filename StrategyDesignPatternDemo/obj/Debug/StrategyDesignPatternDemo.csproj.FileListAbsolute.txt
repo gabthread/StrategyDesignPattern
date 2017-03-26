@@ -1,0 +1,6 @@
+c:\users\gonzalezg\documents\visual studio 2015\Projects\StrategyDesignPatternDemo\StrategyDesignPatternDemo\bin\Debug\StrategyDesignPatternDemo.exe.config
+c:\users\gonzalezg\documents\visual studio 2015\Projects\StrategyDesignPatternDemo\StrategyDesignPatternDemo\bin\Debug\StrategyDesignPatternDemo.exe
+c:\users\gonzalezg\documents\visual studio 2015\Projects\StrategyDesignPatternDemo\StrategyDesignPatternDemo\bin\Debug\StrategyDesignPatternDemo.pdb
+c:\users\gonzalezg\documents\visual studio 2015\Projects\StrategyDesignPatternDemo\StrategyDesignPatternDemo\obj\Debug\StrategyDesignPatternDemo.csprojResolveAssemblyReference.cache
+c:\users\gonzalezg\documents\visual studio 2015\Projects\StrategyDesignPatternDemo\StrategyDesignPatternDemo\obj\Debug\StrategyDesignPatternDemo.exe
+c:\users\gonzalezg\documents\visual studio 2015\Projects\StrategyDesignPatternDemo\StrategyDesignPatternDemo\obj\Debug\StrategyDesignPatternDemo.pdb
